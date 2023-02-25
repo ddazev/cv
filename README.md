@@ -14,8 +14,8 @@
       alt="Golden dog"
     />
     <h1>Azevedo</h1>
-    <p><em>Operadora de telemarketing</em></p>
-    <p>Musicista e programadora</p>
+    <p><em>Telemarketing operator</em></p>
+    <p>Musician and programmer</p>
     <hr />
     <h3>Songs</h3>
     <ul>
